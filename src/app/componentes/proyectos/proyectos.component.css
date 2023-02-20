@@ -1,0 +1,14 @@
+.large-image{
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)),url("/assets/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+    font-family: Poppins;
+    font-style:normal;
+    font-weight:800;
+    font-size: 90px;
+    line-height: 90px;
+    
+}
+  
